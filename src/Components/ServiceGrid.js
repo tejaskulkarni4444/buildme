@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Grid from '@material-ui/core/Grid'
-import GavelIcon from '@material-ui/icons/Gavel'
 
 class ServiceGrid extends Component {
     state = {

@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import logo from 'logo.svg'
-import Navbar from './Navbar'
 import { withStyles } from '@material-ui/core/styles'
 import ServiceGrid from './ServiceGrid'
 
